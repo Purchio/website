@@ -1,0 +1,15 @@
+h1 {
+  color: white;
+}
+
+body {
+  background-color: #1e90ff;
+}
+
+.images {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  margin: 20px;
+  border: 2px solid white;
+}
