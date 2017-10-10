@@ -14,12 +14,11 @@ body {
   border: 2px solid white;
 }
 
-a, li {
-  color: white;
+h2, h3, a, li {
+  color: Ghostwhite;
 }
 
 
 h2, h3 {
   text-decoration: underline;
-  color: GhostWhite;
 }
